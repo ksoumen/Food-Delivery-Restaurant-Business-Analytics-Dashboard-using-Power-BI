@@ -225,6 +225,12 @@ Includes measures related to customer behavior:
 
 ![Repeat vs New Customer](Measures%20Screenshot/Customer%20%20Table%20Measures/Repeate%20vs%20New%20Measure.png)
 
+![Repeat Customer](Measures%20Screenshot/Orders%20Table%20Measures/1.Customer%20Measures/Repeat%20Customer%20Measure.png)
+
+![Repeat Customer %](Measures%20Screenshot/Orders%20Table%20Measures/1.Customer%20Measures/Repeat%20Customer%20%25%20Measure.png)
+
+![Orders per Customer](Measures%20Screenshot/Orders%20Table%20Measures/1.Customer%20Measures/Orders%20per%20Customer%20Measure.png)
+
 ---
 
 ## 📊 KPI Measures
@@ -235,7 +241,6 @@ KPI measures are used to create dynamic KPI analysis across the dashboard.
 
 - KPI Measure
 - Selected KPI Value
-- Dynamic KPI selection
 
 ### Measure Screenshots
 
@@ -263,15 +268,24 @@ Measures are used to calculate core business metrics.
 
 ### Measure Screenshots
 
-![Average Delivery Time](Measures%20Screenshot/Orders%20Table%20Measures/2.KPI%20Measures/Avg%20Delivery%20Time%20Measure.png)
-
-![Average Order Value](Measures%20Screenshot/Orders%20Table%20Measures/2.KPI%20Measures/Avg%20Order%20Value%20Measure.png)
-
-![Total Customers](Measures%20Screenshot/Orders%20Table%20Measures/2.KPI%20Measures/Total%20Customer%20Measure.png)
-
 ![Total Orders](Measures%20Screenshot/Orders%20Table%20Measures/2.KPI%20Measures/Total%20Orders%20Measure.png)
 
 ![Total Revenue](Measures%20Screenshot/Orders%20Table%20Measures/2.KPI%20Measures/Total%20Revenue%20Measure.png)
+
+![Total Customers](Measures%20Screenshot/Orders%20Table%20Measures/2.KPI%20Measures/Total%20Customer%20Measure.png)
+
+![Total Restaurants](Measures%20Screenshot/Orders%20Table%20Measures/2.KPI%20Measures/Total%20Resturant%20Measure.png)
+
+![Average Order Value](Measures%20Screenshot/Orders%20Table%20Measures/2.KPI%20Measures/Avg%20Order%20Value%20Measure.png)
+
+![Average Delivery Time](Measures%20Screenshot/Orders%20Table%20Measures/2.KPI%20Measures/Avg%20Delivery%20Time%20Measure.png)
+
+![Revenue Per Restaurant](Measures%20Screenshot/Orders%20Table%20Measures/3.Resturant%20Performance%20Measures/Revenue%20Per%20Restutant%20Measure.png)
+
+![Average Rating](Measures%20Screenshot/Orders%20Table%20Measures/3.Resturant%20Performance%20Measures/Avg%20Rating%20Measure.png)
+
+![Average Votes](Measures%20Screenshot/Orders%20Table%20Measures/3.Resturant%20Performance%20Measures/Avg%20vote%20Measure.png)
+
 
 ---
 
@@ -289,13 +303,15 @@ These measures analyze delivery and order status.
 
 ### Measure Screenshots
 
-![Cancelled Orders](Measures%20Screenshot/Orders%20Table%20Measures/4.Status%20Measures/Cancelled%20Order%20Measure.png)
-
 ![Delivered Orders](Measures%20Screenshot/Orders%20Table%20Measures/4.Status%20Measures/Delivered%20Orders%20Measure.png)
+
+![Cancelled Orders](Measures%20Screenshot/Orders%20Table%20Measures/4.Status%20Measures/Cancelled%20Order%20Measure.png)
 
 ![Late Orders](Measures%20Screenshot/Orders%20Table%20Measures/4.Status%20Measures/Late%20Orders%20Measure.png)
 
 ![Late Delivery Percentage](Measures%20Screenshot/Orders%20Table%20Measures/4.Status%20Measures/Late%20Delivery%20%25%20Measure.png)
+
+![Cancellation Percentage](Measures%20Screenshot/Orders%20Table%20Measures/4.Status%20Measures/Cancellation%20%25%20Measure.png)
 
 ---
 
@@ -311,11 +327,11 @@ Time intelligence is used to analyze business performance across different perio
 
 ### Measure Screenshots
 
-![Revenue Growth](Measures%20Screenshot/Orders%20Table%20Measures/5.Time%20Intelligence%20Measures/Revenue%20Growth%20%25%20Measure.png)
+![Revenue YTD](Measures%20Screenshot/Orders%20Table%20Measures/5.Time%20Intelligence%20Measures/Revenue%20YTD%20Measure.png)
 
 ![Previous Month Revenue](Measures%20Screenshot/Orders%20Table%20Measures/5.Time%20Intelligence%20Measures/Revenue%20Previous%20Month%20Measure.png)
 
-![Revenue YTD](Measures%20Screenshot/Orders%20Table%20Measures/5.Time%20Intelligence%20Measures/Revenue%20YTD%20Measure.png)
+![Revenue Growth](Measures%20Screenshot/Orders%20Table%20Measures/5.Time%20Intelligence%20Measures/Revenue%20Growth%20%25%20Measure.png)
 
 ---
 

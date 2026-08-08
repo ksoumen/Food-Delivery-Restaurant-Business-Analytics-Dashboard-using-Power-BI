@@ -160,7 +160,7 @@ This page provides deeper interactive analysis using dynamic KPI selection and a
 
 ### Screenshot
 
-![Advanced Insights](Dashboard%20Screenshots/Advanced-Insights.png)
+![Advanced Insights](Advanced insights Screen Shot.png)
 
 ---
 

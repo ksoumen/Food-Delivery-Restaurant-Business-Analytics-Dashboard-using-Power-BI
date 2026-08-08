@@ -76,7 +76,7 @@ The Executive Overview provides a high-level summary of the food delivery busine
 
 ### Screenshot
 
-![Executive Overview](Dashboard%20Screenshots/Executive-Overview.png)
+![Executive Overview](Executive%20Overview%20Screen%20Shot.png)
 
 ---
 
@@ -96,7 +96,7 @@ This page focuses on customer behavior and customer segmentation.
 
 ### Screenshot
 
-![Customer Analytics](Dashboard%20Screenshots/Customer-Analytics.png)
+![Customer Analytics](Customer%20Analytics%20Screen%20Shot.png)
 
 ---
 
@@ -117,7 +117,7 @@ This page evaluates restaurant-level performance and business contribution.
 
 ### Screenshot
 
-![Restaurant Performance](Dashboard%20Screenshots/Restaurant-Performance.png)
+![Restaurant Performance](Restaurant%20Performance%20Screen%20Shot.png)
 
 ---
 
@@ -138,7 +138,7 @@ This page focuses on delivery efficiency and operational performance.
 
 ### Screenshot
 
-![Delivery and Operations](Dashboard%20Screenshots/Delivery-Operations.png)
+![Delivery & Operations](Delivery%20and%20Operation%20Screen%20Shot.png)
 
 ---
 
@@ -160,7 +160,7 @@ This page provides deeper interactive analysis using dynamic KPI selection and a
 
 ### Screenshot
 
-![Advanced Insights](Advanced insights Screen Shot.png)
+![Advanced Insights](Advanced%20insights%20Screen%20Shot.png)
 
 ---
 
@@ -183,7 +183,7 @@ The Restaurant Details page provides detailed restaurant-level analysis using **
 
 ### Screenshot
 
-![Restaurant Details](Dashboard%20Screenshots/Restaurant-Details.png)
+![Restaurant Details](Restaurant%20Details%20Screen%20Shot.png)
 
 ---
 
@@ -201,7 +201,7 @@ The project follows a structured **Star Schema** approach.
 
 ### Data Model Screenshot
 
-![Data Model](Dashboard%20Screenshots/Data-Model.png)
+![Data Model](Data%20Model%20Screen%20Shot.png)
 
 ---
 

@@ -117,7 +117,7 @@ This page evaluates restaurant-level performance and business contribution.
 
 ### Screenshot
 
-![Restaurant Performance](Restaurant%20Performance%20Screen%20Shot.png)
+![Restaurant Performance](Resturant%20Performance%20Screen%20Shot.png)
 
 ---
 
@@ -183,7 +183,7 @@ The Restaurant Details page provides detailed restaurant-level analysis using **
 
 ### Screenshot
 
-![Restaurant Details](Restaurant%20Details%20Screen%20Shot.png)
+![Restaurant Details](Resturant%20Details%20Screen%20Shot.png)
 
 ---
 

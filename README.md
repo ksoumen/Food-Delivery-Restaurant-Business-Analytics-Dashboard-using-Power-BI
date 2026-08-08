@@ -221,9 +221,9 @@ Includes measures related to customer behavior:
 
 ### Measure Screenshots
 
-![Filter City Measure](Measures%20Screenshot/Customer%20Table%20Measures/Filter%20City%20Measure.png)
+![Filter City Measure](Measures%20Screenshot/Customer%20%20Table%20Measures/Filter%20City%20Measure.png)
 
-![Repeat vs New Customer](Measures%20Screenshot/Customer%20Table%20Measures/Repeat%20vs%20New%20Measure.png)
+![Repeat vs New Customer](Measures%20Screenshot/Customer%20%20Table%20Measures/Repeate%20vs%20New%20Measure.png)
 
 ---
 
